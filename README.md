@@ -1,2 +1,2 @@
 # Data-Mining Tech
-Finding histograms, dtypes, column names and many more!
+Finding histograms, dtypes, column names and many more..!
